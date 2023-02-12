@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sangeeth123sj
-- 👀 I’m interested in python, django, js, vuejs, fastapi, mongodb and cool new short projects
+- 👀 I’m interested in python, django, js, vuejs, fastapi, Nodejs, Reactjs,mongodb and cool new short projects
 - 🌱 I’m currently learning vuejs and fastapi
 - 💞️ I’m looking to collaborate on python and django projects
 - 📫 You can reach me at sangeeth123sj@gmail.com
